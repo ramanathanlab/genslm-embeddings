@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/ramanathanlab/genslm-embeddings/compare/v0.3.0...v0.3.1) (2026-11-17)
+
+
+### Bug Fixes
+
+* **deps:** use uv dependabot ecosystem and patch vulnerable lockfile deps ([#45](https://github.com/ramanathanlab/genslm-embeddings/issues/45)) ([1c800a3](https://github.com/ramanathanlab/genslm-embeddings/commit/1c800a3236f06e02dde616010e9f18620190c1a6))
+
 ## [0.3.0](https://github.com/ramanathanlab/genslm-embeddings/compare/v0.2.0...v0.3.0) (2026-09-24)
 
 
