@@ -20,8 +20,8 @@ updates:
         patterns:
           - '*'
 
-  # Python dependencies declared in pyproject.toml
-  - package-ecosystem: pip
+  # Python dependencies declared in pyproject.toml and locked in uv.lock
+  - package-ecosystem: uv
     directory: /
     target-branch: develop
     schedule:
